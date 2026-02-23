@@ -109,7 +109,7 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 > Alguma parte danificada ou amaçada na torre do equipamento?
 
 ### 3️⃣ ETAPA 3: Vistória de equipamento ao chegar da locação
-**Objetivo:** Aqui você vai analisar e avaliar as condições em que o equipamento chegou da locação:
+**Objetivo:** Aqui você vai idendificar os itens e peças danificados que devem ser substituidos:
 **Perguntas:** 
 > Foi identificado mau do equipamento (Sim/Não)?
 
