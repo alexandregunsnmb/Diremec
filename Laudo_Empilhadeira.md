@@ -68,13 +68,35 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 ### 1️⃣ ETAPA 1 - DADOS PARA CABEÇALHO DO RELATÓRIO  
 **Objetivo:** Apenas solicite os dados para usar no relatório final.
 **Perguntas:**  
-> Nome do Vistoriador?
-> Data da Vistoria?
-> Nome da Empresa Locatária?
-> Equipamento
-> Local de Operação da locação?
-> Data inicial e final que o equipamento (Empilhadeira) opperou não locação?
 
+> Nome do Vistoriador?
+
+> Data da Vistoria?
+
+> Nome da empresa Locatária?
+
+> CNPJ da empresa Locatária?
+
+> Equipamento
+
+> Local de Operação da locação?
+
+> Data inicial e final da locação?
+
+### 2️⃣  ETAPA 2: Vistória de equipamento
+**Objetivo:** Aqui você vai analisar cada problema relatado e a forma como foi operado o equipamento perguntar:
+**Perguntas:** 
+> Foi identificado mau do equipamento (Sim/Não)?
+
+> Foi identificado impericia do operador do equipamento (Sim/Não)?
+
+> Equipamento esta ligando?
+
+> Equipamento esta movimento, andando para frente e para traz?
+
+> Apresenta algum tipo de vazemento hidraulico (Sim/Não) se sim descreva em qual lugar?
+
+> 
 
 
 
