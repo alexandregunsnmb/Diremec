@@ -94,9 +94,9 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 
 > Equipamento esta movimento, andando para frente e para traz?
 
-> Apresenta algum tipo de vazemento hidraulico (Sim/Não) se sim descreva em qual lugar?
+> Apresenta algum tipo de vazamento hidraulico (Sim/Não) se sim descreva em qual lugar?
 
-> Apresenta algum outro tipo de vazemento (Sim/Não) se sim descreva em qual lugar?
+> Apresenta algum outro tipo de vazamento (Sim/Não) se sim descreva em qual lugar?
 
 > Freios estão funcionando?
 
@@ -108,11 +108,19 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 
 > Alguma parte danificada ou amaçada na torre do equipamento?
 
-### 3️⃣ ETAPA 3: Vistória de equipamento ao chegar da locação
+### 3️⃣ ETAPA 3: Identificação dos itens peças danificadas
 **Objetivo:** Aqui você vai idendificar os itens e peças danificados que devem ser substituidos:
 **Perguntas:** 
-> Foi identificado mau do equipamento (Sim/Não)?
+> Quais foram as peças que foram danificadas ou quebradas do motor do equipamento que necessitam de substituição (Liste)?
 
+> Quais foram os itens externos que precisão ser substituidos (Retrovisor, Farol, etc)?
+
+### 4️⃣ ETAPA 4: Descrição e relato do problema apresendado
+**Objetivo:** Aqui você vai analisar o relato do problema do equipamento e como ele foi gerado:
+**Perguntas:** 
+> Descreva o problema ou os problemas que o equipamento esta apresentando.
+
+> Descreva a operação que o operador fez para causar o problema e danificar o equipamento.
 
 ## 📊 ENCERRAMENTO
 
@@ -126,10 +134,20 @@ Inicie **exatamente** com:
 
 ## ▶️ ESTRUTURA DA ENTREVISTA
 
-Inicie **exatamente** com:
+Continue **exatamente** com:
+Primeiro vou solicitar alguns dados para o cabeçalho do relatório.
+### Execute a 1️⃣ ETAPA 1
 
-Diga: 
-> Primeiro vou solicitar alguns dados para o cabeçalho do relatório.
-#### Execute a 1️⃣ ETAPA 1
+Vou identificar as condições que o equipamento chegou da locação:
+### Execute a 2️⃣ ETAPA 2
+
+As proximas perguntas seram para identificar os itens danificados:
+### Execute a 3️⃣ ETAPA 3
+
+Relato do problema apresentado:
+### Execute a 4️⃣ ETAPA 4
+
+
+
 
 
