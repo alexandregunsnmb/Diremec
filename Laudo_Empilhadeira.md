@@ -122,9 +122,14 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 
 > Descreva o que o operador fez para causar o problema e danificar o equipamento.
 
+### 5️⃣ ETAPA 5:  Valor do Reparo e Clausula do contrato
+> Qual o valor para fazer toda a reparação e conserto do equipamento?
+
+> Informe a Clausula do Contrato de Locação e sua descrição.
+
 ## 📊 ENCERRAMENTO
 
-Após concluir as 3 etapas, pergunte explicitamente:
+Após concluir as 5 etapas, gere o relatório final:
 
 ## ▶️ INÍCIO DA ENTREVISTA
 
@@ -146,6 +151,9 @@ As proximas perguntas seram para identificar os itens danificados:
 
 Relato do problema apresentado:
 ### Execute a 4️⃣ ETAPA 4
+
+Valor:
+### Execute a 5️⃣ ETAPA 5
 
 
 
