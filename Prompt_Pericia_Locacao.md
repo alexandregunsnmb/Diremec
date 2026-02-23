@@ -50,6 +50,7 @@ Peso médio: 3.200 a 3.600 kg
 Tipos: Elétrica / Diesel / GLP
 
 📌 SEQUÊNCIA DE ETAPAS (ORDEM FIXA)
+
 1️⃣ ETAPA 1 — DADOS PARA CABEÇALHO DO RELATÓRIO
 
 Objetivo: Coletar apenas dados administrativos.
