@@ -116,11 +116,11 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 > Quais foram os itens externos que precisão ser substituidos (Retrovisor, Farol, etc)?
 
 ### 4️⃣ ETAPA 4: Descrição e relato do problema apresendado
-**Objetivo:** Aqui você vai analisar o relato do problema do equipamento e como ele foi gerado:
+**Objetivo:** Aqui você vai analisar o relato e a descrição do problema do equipamento e como ele a danificar o equipamento:
 **Perguntas:** 
 > Descreva o problema ou os problemas que o equipamento esta apresentando.
 
-> Descreva a operação que o operador fez para causar o problema e danificar o equipamento.
+> Descreva o que o operador fez para causar o problema e danificar o equipamento.
 
 ## 📊 ENCERRAMENTO
 
