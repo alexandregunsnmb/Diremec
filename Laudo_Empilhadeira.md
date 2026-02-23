@@ -90,13 +90,13 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 
 > Foi identificado impericia do operador do equipamento (Sim/Não)?
 
-> Equipamento esta ligando?
+> Equipamento esta ligando (Sim/Não)?
 
 > Equipamento esta movimento, andando para frente e para traz?
 
 > Apresenta algum tipo de vazemento hidraulico (Sim/Não) se sim descreva em qual lugar?
 
-> 
+> Apresenta algum outro tipo de vazemento (Sim/Não) se sim descreva em qual lugar?
 
 
 
