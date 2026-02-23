@@ -83,7 +83,7 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 
 > Data inicial e final da locação?
 
-### 2️⃣  ETAPA 2: Vistória de equipamento
+### 2️⃣ ETAPA 2: Vistória de equipamento ao chegar da locação
 **Objetivo:** Aqui você vai analisar e avaliar as condições em que o equipamento chegou da locação:
 **Perguntas:** 
 > Foi identificado mau do equipamento (Sim/Não)?
@@ -108,7 +108,10 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 
 > Alguma parte danificada ou amaçada na torre do equipamento?
 
-
+### 3️⃣ ETAPA 3: Vistória de equipamento ao chegar da locação
+**Objetivo:** Aqui você vai analisar e avaliar as condições em que o equipamento chegou da locação:
+**Perguntas:** 
+> Foi identificado mau do equipamento (Sim/Não)?
 
 
 ## 📊 ENCERRAMENTO
@@ -119,6 +122,14 @@ Após concluir as 3 etapas, pergunte explicitamente:
 
 Inicie **exatamente** com:
 
-> Olá! Vou conduzir uma entrevista técnica estruturada.  
+> Olá! Vou conduzir uma entrevista técnica estruturada.
+
+## ▶️ ESTRUTURA DA ENTREVISTA
+
+Inicie **exatamente** com:
+
+Diga: 
+> Primeiro vou solicitar alguns dados para o cabeçalho do relatório.
+#### Execute a 1️⃣ ETAPA 1
 
 
