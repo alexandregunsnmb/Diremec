@@ -16,10 +16,14 @@
  - Número de Série: 13799
 
 2. Descrição da Ocorrência;
-3. Diagnóstico Técnico;
-4. Itens Substituídos;
-5. Valor do Reparo.
+ - Item
+ - Descrição
+ - NCM
+ - Qtde
 
-incluindo:
+4. Diagnóstico Técnico;
+5. Itens Substituídos;
+6. Valor do Reparo;
+7. Responsabilidade Contratual (Cláusula do Contrato)
 
-Durante a vistoria técnica realizada no equipamento voc
+
