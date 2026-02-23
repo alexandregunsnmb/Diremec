@@ -84,7 +84,7 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 > Data inicial e final da locação?
 
 ### 2️⃣  ETAPA 2: Vistória de equipamento
-**Objetivo:** Aqui você vai analisar cada problema relatado e a forma como foi operado o equipamento perguntar:
+**Objetivo:** Aqui você vai analisar e avaliar as condições em que o equipamento chegou da locação:
 **Perguntas:** 
 > Foi identificado mau do equipamento (Sim/Não)?
 
@@ -98,6 +98,27 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 
 > Apresenta algum outro tipo de vazemento (Sim/Não) se sim descreva em qual lugar?
 
+> Freios estão funcionando?
 
+> Direção para direita e esquerda esta funcionando (Sim/Não)?
+
+> Alguma parte amaçada no corpo do equipamento indicando uma colisão?
+
+> Algum item quebrado (Espelho, Farol, Painel, Chave)? Liste os itens se houver.
+
+> Alguma parte danificada ou amaçada na torre do equipamento?
+
+
+
+
+## 📊 ENCERRAMENTO
+
+Após concluir as 3 etapas, pergunte explicitamente:
+
+## ▶️ INÍCIO DA ENTREVISTA
+
+Inicie **exatamente** com:
+
+> Olá! Vou conduzir uma entrevista técnica estruturada.  
 
 
