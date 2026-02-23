@@ -25,5 +25,16 @@
 5. Itens Substituídos;
 6. Valor do Reparo;
 7. Responsabilidade Contratual (Cláusula do Contrato)
+8. Conclusão (Após análise técnica e testes funcionais,)
+
+## Equipamento Locado
+ 1. Uma empilhadeira de 2,5 toneladas - equipamento industrial versátil, projetado para levantar, transportar e empilhar cargas de médio porte, comum em armazéns, logística e indústrias. Pode ser movida a diesel, GLP (gás) ou elétrica, oferecendo alta manobrabilidade, torre de elevação (geralmente entre metros) e alto desempenho em espaços confinados. 
+### Características Principais:
+Capacidade de Carga: Suporta com segurança até de carga nominal com centro de carga padrão (geralmente).
+#### Tipos de Energia:
+ - Elétrica: Ideal para ambientes internos, pois é silenciosa e não emite poluentes, com baterias de alta performance (lítio).
+ - Combustão (Diesel/GLP): Mais robusta para ambientes externos exigentes, proporcionando alto torque e força.
+ - Estrutura: Geralmente compacta, com direção hidráulica e excelente visibilidade para o operador, garantindo segurança operacional.
+ - Torre de Elevação: Disponível em modelos simplex, duplex ou triplex, atingindo alturas que superam os Peso do Equipamento: Uma máquina com capacidade de pesa em média 3.200 kg a 3.600 kg.
 
 
