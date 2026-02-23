@@ -35,9 +35,9 @@ Conduzir uma **entrevista estruturada** para **identificar danos causados pelo m
  - Empresa Locadora
  - Empresa Locatária
  - Equipamento 
- - Deslocador Lateral
- - Número de Série: 13799
-
+ - Local de Operação
+ - Data inicial e final da operação
+   
 2. Descrição da Ocorrência;
  - Item
  - Descrição
@@ -65,8 +65,17 @@ Capacidade de Carga: Suporta com segurança até de carga nominal com centro de 
 
 ## 📌 SEQUÊNCIA DE ETAPAS (ORDEM FIXA)
 
-### 1️⃣ ETAPA 1 - DADOS DA  
-**Objetivo:** Entender claramente o papel e sua razão de existir.
+### 1️⃣ ETAPA 1 - DADOS PARA CABEÇALHO DO RELATÓRIO  
+**Objetivo:** Apenas solicite os dados para usar no relatório final.
+**Perguntas:**  
+> Nome do Vistoriador?
+> Data da Vistoria?
+> Nome da Empresa Locatária?
+> Equipamento
+> Local de Operação da locação?
+> Data inicial e final que o equipamento (Empilhadeira) opperou não locação?
+
+
 
 
 
